@@ -11,11 +11,11 @@ There are no plans to continue development but I am ready to accept any suggesti
 >**PS:** Don't judge strictly by the code, I'm in shock myself.
 
 ## Content
-- [Features](https://github.com/BohdanYarovyi/Front-Fields/edit/master/README.md#features-)
-- [Gameplay](https://github.com/BohdanYarovyi/Front-Fields/edit/master/README.md#gameplay-)
-- [Controls](https://github.com/BohdanYarovyi/Front-Fields/edit/master/README.md#controls-%EF%B8%8F)
-- [Try It Out](https://github.com/BohdanYarovyi/Front-Fields/edit/master/README.md#try-it-out-)
-- [About me](https://github.com/BohdanYarovyi/Front-Fields/edit/master/README.md#about-me-)
+- [Features](https://github.com/BohdanYarovyi/Front-Fields?tab=readme-ov-file#features-)
+- [Gameplay](https://github.com/BohdanYarovyi/Front-Fields?tab=readme-ov-file#gameplay-)
+- [Controls](https://github.com/BohdanYarovyi/Front-Fields?tab=readme-ov-file#controls-%EF%B8%8F)
+- [Try It Out](https://github.com/BohdanYarovyi/Front-Fields?tab=readme-ov-file#try-it-out-)
+- [About me](https://github.com/BohdanYarovyi/Front-Fields?tab=readme-ov-file#about-me-)
 
 ## Features 🤩
 - Retro-inspired 2D graphics.
