@@ -2,8 +2,12 @@
   <img src="https://github.com/BohdanYarovyi/Front-Fields/blob/master/src/main/resources/image/persons/hero/hero1.png" alt="Logo" />
   <h1 style="font-weight: 800; font-size: 60px;">Front  Fields</h1>
 </div>
-__ change desc
-A simple 2D space combat game developed using Java and Swing. Pilot your spaceship, navigate through an asteroid field, and engage in battles with enemy fleets!
+
+A simple 2D space combat game developed using Java and Swing. Be the captain, shoot down enemy fleet ships and upgrade your ship.
+
+_The game was developed in 2023 in the first year of computer science as a course project. There are no plans to continue development but I am ready to accept any suggestions_
+
+>**PS:** Don't judge strictly by the code, I'm in shock myself.
 
 ## Features
 - Retro-inspired 2D graphics.
@@ -13,6 +17,7 @@ A simple 2D space combat game developed using Java and Swing. Pilot your spacesh
 - Bosses
 
 ## Gameplay
+You have an upgradeable combat spaceship at your disposal. You need to destroy enemy ships of different types and survive as many waves as possible.
 
 <p align="center">
   <img src="./screenshots/fight.png" alt="Gameplay" width="500"/>
@@ -27,7 +32,7 @@ There are several levels of improvements in the game. The first and second level
 
 
 ## Try It Out
-1. Download the [latest release](./path-to-jar-file.jar).
+1. Download the [latest release](./releases/FrontFields-1.0.jar).
 2. Run the `.jar` file with Java:
    ```bash
    java -jar path-to-your-game.jar
