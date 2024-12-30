@@ -8,7 +8,7 @@ A simple 2D space combat game developed using Java and Swing. Be the captain, sh
 _The game was developed in 2023 in the first year of computer science as a course project. All the game graphics are based on the manipulation of ordinary images.
 There are no plans to continue development but I am ready to accept any suggestions._
 
->**PS:** Don't judge strictly by the code, I'm in shock myself.
+>**PS:** Don't judge strictly by the code, I'm in shock myself 😅
 
 ## Content
 - [Features](https://github.com/BohdanYarovyi/Front-Fields?tab=readme-ov-file#features-)
